@@ -1,4 +1,4 @@
-# <img src="Aligo.png" width="215" height="115">
+# <img src="Aligo.png" width="107" height="57">
 
 Auto Benchmarking Network Operators Performance
 
