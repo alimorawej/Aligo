@@ -10,7 +10,8 @@
 ## Background
 <p> Drive testing is a method of measuring and assessing the coverage, capacity and Quality of Service (QoS) of a mobile radio network.  The equipment are usually highly specialized electronic devices that interface to OEM mobile handsets. This ensures measurements are realistic and comparable to actual user experiences. </p>
 <figure>
-<img src="TestType.png" width="100%" height="100%">
+<img src="TestType.png" width="80%" height="80%">
+<figcaption>Figure 1: Type of Drive test</figcaption>
 </figure>
 
 <p>Generate cluster drive-based report on daily basis or hourly basis as per the client requirement for QoE monitoring. Conduct cluster drive for all kind of tests like Ping test, call test, speed test, HTTP test, SMS test and Stream test and analyse the drive data for QoE monitoring.</p>
