@@ -8,6 +8,7 @@
 </figure>
 
 ## Background
+
 <p> Drive testing is a method of measuring and assessing the coverage, capacity and Quality of Service (QoS) of a mobile radio network.  The equipment are usually highly specialized electronic devices that interface to OEM mobile handsets. This ensures measurements are realistic and comparable to actual user experiences. </p>
 <figure>
 <img src="TestType.png" width="80%" height="80%">
@@ -15,10 +16,16 @@
 </figure>
 <br/>
 <p>Generate cluster drive-based report on daily basis or hourly basis as per the client requirement for QoE monitoring. Conduct cluster drive for all kind of tests like Ping test, call test, speed test, HTTP test, SMS test and Stream test and analyse the drive data for QoE monitoring.</p>
-
+<figure>
+<img src="Drivetest_Analysis.png" width="80%" height="80%">
+<figcaption>Figure 2: Analysis Drive test Process</figcaption>
+</figure>
+<br/>
 <p>Single Site Verification (SSV) is an audit method, where we need to check the entire KPI (Key performance indicator), coverage and quality for a single radio base station site.</p>
 <br/>
+
 ## Introduction
+
 <p><b>Aligo</b> for Competitive Benchmarking Operators constantly need to make comparisons geographically across the country to gain a deeper understanding of their relative performance within the industry, improve operations and increase their competitive advantage. Aligo are the perfect solution as they have been purposely designed for competitive benchmarking.</p>
 <ul>
 <li> Uses standard consumer smartphones to ensure results are representative and reflect the true network experience</li>  
