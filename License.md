@@ -2,7 +2,7 @@
 ## Auto Benchmarking Network Operators Performance
  
 
-<p>Copyright (c) 2017-2020, Ali Morawej</p>
+<p>Copyright (c) Spring 2020, Ali Morawej</p>
 
 <p>All rights reserved.</p>
 <br/>
