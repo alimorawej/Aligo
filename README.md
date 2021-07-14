@@ -72,7 +72,7 @@
 <p><b>Aligo</b> is being used for national benchmarking of both our customer MNOs and their competitors. The below screen shots show signal, voice and data speed/video streaming tests conducted across all major roads and big cities or small cities, for a few networks. </p>
 
 <figure>
-<img src=".png" width="10%" height="10%">
+<img src="dashboard.png" width="10%" height="10%">
 </figure>
 
 <p>This is a highly cost-effective and fast way to obtain accurate QoS performance data on our network available in near-real time via a secure Web Portal (Live Platform). What’s more, information can also be sourced from partner organizations including Taxi firms or Bus firms with easy to use Plug & Play test equipment.</p>
