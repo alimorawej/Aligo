@@ -73,11 +73,9 @@
 
 <figure>
 <img src="dashboard.png" width="10%" height="10%">
-</figure>
-<figure>
+
 <img src="coverage_hole.png" width="10%" height="10%">
-</figure>
-<figure>
+
 <img src="data_analysis.png" width="10%" height="10%">
 </figure>
 
