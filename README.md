@@ -1,6 +1,6 @@
 # <img src="Aligo.png" width="107" height="57">
 
-### A Powerful Solution for Automated Benchmarking Data Analysis & Reporting
+### A Powerful Solution for Automated Benchmarking Network Measurement Reporting
 
 
 <figure>
