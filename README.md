@@ -74,5 +74,11 @@
 <figure>
 <img src="dashboard.png" width="10%" height="10%">
 </figure>
+<figure>
+<img src="coverage_hole.png" width="10%" height="10%">
+</figure>
+<figure>
+<img src="data_analysis.png" width="10%" height="10%">
+</figure>
 
 <p>This is a highly cost-effective and fast way to obtain accurate QoS performance data on our network available in near-real time via a secure Web Portal (Live Platform). What’s more, information can also be sourced from partner organizations including Taxi firms or Bus firms with easy to use Plug & Play test equipment.</p>
